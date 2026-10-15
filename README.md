@@ -1,6 +1,6 @@
 # Wheel Town (build web)
 
-Jogue em <https://wheeltown.lumee.page>, no Chrome ou no Firefox de um computador.
+Jogue em <https://wheeltown.montway.dev>, no Chrome ou no Firefox de um computador.
 
 Este repositório só tem a **build web gerada** do Wheel Town (Godot 4.7.2, WebAssembly + WebGL 2), servida pelo GitHub Pages. O código do jogo fica num repositório privado; aqui estão apenas os arquivos que o navegador baixa para rodar o jogo.
 
